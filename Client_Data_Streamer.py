@@ -18,6 +18,7 @@ def data_generation():
 
 
 if __name__ == '__main__':
+     # to be changed by your power bi api (dashboard streaming)
     REST_API_URL = env.PBI_URL
 
     while True:
